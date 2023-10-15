@@ -1,6 +1,6 @@
 This sample C code is for demonstrating the coding skill.<br/><br/>
 
-Write a C program that reads the input file (ASCII_DATA_TEST.txt) line by line and write it to an output file.<br/>
+Write a C program that reads the input file (ASCII_DATA.txt) line by line and write it to an output file.<br/>
 The reading & writing of input file must follow the steps as below:<br/><br/>
 
 i. Create a function "read_record()" for reading of input file. Hint: Use "C" fread() function.<br/>
