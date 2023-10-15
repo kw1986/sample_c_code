@@ -1,7 +1,5 @@
 This sample C code is for demonstrating the coding skill. 
 
-Question 1:
-###########
 Write a C program that reads the input file (ASCII_DATA_TEST.txt) line by line and write it to an output file.
 The reading & writing of input file must follow the steps as below:
 
