@@ -7,4 +7,9 @@ i. Create a function "read_record()" for reading of input file. Hint: Use "C" fr
 ii. The record being read must be stored into a record structure. Hint: Use "C" struct.<br/>
 iii. The data being read must be printed out to screen using a function "show_record()".<br/>
 iv. Each data printed out must then be written out to another file. Hint: Use "C" fwrite function.<br/>
-vi. Before write data to output, Change each of the record DATAn to MYDATAn.<br/>
+vi. Before write data to output, Change each of the record DATAn to MYDATAn.<br/><br/>
+
+How to run the program in Linux environment?<br/>
+1. cd src/<br/>
+2. make<br/>
+3. ./test<br/><br/>
